@@ -7,7 +7,7 @@
  * Return: void
  */
 
-void reve_string(char *s)
+void rev_string(char *s)
 
 {
 	int len = 0, index = 0;
